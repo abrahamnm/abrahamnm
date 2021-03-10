@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 👨🏽‍💻 Pronouns: he/him
 
 ### Most used languages:
-  <figure><embed src="https://wakatime.com/share/@abrahamnm/d99d6190-7dbf-492f-8612-e6f919ec284c.svg" width="427"></embed></figure>
+<img src="https://wakatime.com/share/@abrahamnm/b48b5b62-9733-4cf5-a124-7dde1336660f.png" width="427" />
