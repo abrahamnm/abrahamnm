@@ -20,7 +20,7 @@ jobs:
           config_timezone: "America/Monterrey"
           template: classic
 
-          base: header, activity, community, repositories, metadata
+          base: header, activity
           repositories_affiliations: owner, collaborator
 
           plugin_languages: yes
