@@ -20,7 +20,7 @@ jobs:
           config_timezone: "America/Monterrey"
           template: classic
 }
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community
           repositories_affiliations: owner, collaborator
 
           plugin_languages: yes
@@ -34,7 +34,7 @@ jobs:
 
           plugin_lines: yes
 
-          plugin_waka_time: yes
-          plugin_waka_time_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_waka_time_days: 180
-          plugin_waka_time_sections: time, languages, languages-graphs, editors, os
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 180
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
