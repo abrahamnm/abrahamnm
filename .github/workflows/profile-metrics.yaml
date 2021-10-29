@@ -19,7 +19,7 @@ jobs:
           user: abrahamnm
           config_timezone: "America/Monterrey"
           template: classic
-}
+
           base: header, activity, community, repositories, metadata
           repositories_affiliations: owner, collaborator
 
