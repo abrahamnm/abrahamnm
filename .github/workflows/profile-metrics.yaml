@@ -13,14 +13,14 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: ${{ github-metrics }}
+          committer_branch: github-metrics
           committer_message: "Action: update `${filename}`"
 
           user: abrahamnm
           config_timezone: "America/Monterrey"
           template: classic
-}
-          base: header, activity, community
+
+          base: header, activity, community, repositories, metadata
           repositories_affiliations: owner, collaborator
 
           plugin_languages: yes
