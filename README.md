@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: abrahamnm@gmail.com
 - 👨🏽‍💻 Pronouns: he/him
 
-### Most used languages:
-<img src="https://wakatime.com/share/@abrahamnm/b48b5b62-9733-4cf5-a124-7dde1336660f.png" width="50%" /><img src="https://github-readme-stats.vercel.app/api?username=abrahamnm&hide=stars&count_private=true&show_icons=true&theme=tokyonight&bg_color=66000000&hide_border=true" width="50%">
+![Metrics](https://raw.githubusercontent.com/abrahamnm/abrahamnm/github-metrics/github-metrics.svg)
