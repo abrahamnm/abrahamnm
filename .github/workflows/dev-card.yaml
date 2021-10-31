@@ -1,0 +1,15 @@
+name: DevCard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 13 * * *"
+
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@latest
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
