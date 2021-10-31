@@ -1,5 +1,8 @@
 ## console.info('Hello World! 👋')
-
+<a href="https://www.linkedin.com/in/abrahamnm"><img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&color=00CC00&label=LinkedIn&message=%f0%9f%92%bc"
+      alt="LinkedIn"
+    /></a> <a href="https://twitter.com/abrahamnm"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/abrahamnm?color=00CC00&logo=twitter&style=for-the-badge"></a>
 <!--
 **abrahamnm/abrahamnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +17,6 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: abrahamnm@gmail.com
 - 👨🏽‍💻 Pronouns: he/him
+- 🔭 I’m currently working on [Binnacle](https://www.binnacle.com.mx/) @ [Carbono](https://carbonodev.com/)
 
-### Most used languages:
-<img src="https://wakatime.com/share/@abrahamnm/b48b5b62-9733-4cf5-a124-7dde1336660f.png" width="50%" /><img src="https://github-readme-stats.vercel.app/api?username=abrahamnm&hide=stars&count_private=true&show_icons=true&theme=tokyonight&bg_color=66000000&hide_border=true" width="50%">
+![Metrics](https://raw.githubusercontent.com/abrahamnm/abrahamnm/github-metrics/github-metrics.svg)
