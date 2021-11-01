@@ -3,7 +3,7 @@ name: profile-metrics
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 13 * * *"
+    - cron: "30 23 * * *"
 
 jobs:
   github-metrics:
