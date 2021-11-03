@@ -9,6 +9,9 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: "America/Monterrey"
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
