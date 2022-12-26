@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: abrahamnm@gmail.com
 - 👨🏽‍💻 Pronouns: he/him
-- 🔭 I’m currently working on [Binnacle](https://www.binnacle.com.mx/) @ [Carbono](https://carbonodev.com/)
+- 🔭 I’m currently working @ [Yelp]([https://carbonodev.com/](https://github.com/Yelp))
 
 ![Metrics](https://raw.githubusercontent.com/abrahamnm/abrahamnm/github-metrics/github-metrics.svg)
